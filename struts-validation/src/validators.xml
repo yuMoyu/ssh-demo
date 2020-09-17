@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE validators PUBLIC "-//Apache Struts//XWork Validator 1.0.2//EN" 
+  "http://struts.apache.org/dtds/xwork-validator-config-1.0.dtd">
+  	<!-- 此DOCTYPE和default.xml中的一致 -->	
+<validators>
+<!-- 验证器注册 -->
+  <validator name = "bValidator" class = "validate.BValidator"/>
+</validators> 
