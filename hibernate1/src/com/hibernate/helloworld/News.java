@@ -44,6 +44,4 @@ public class News {
 		return "News [id=" + id + ", title=" + title + ", author=" + author
 				+ ", data=" + data + "]";
 	}
-	
-
 }

@@ -1,5 +1,4 @@
 package com.hibernate.helloworld;
-
 import static org.junit.Assert.*;
 
 import java.sql.Date;
@@ -47,5 +46,4 @@ public class HibernateTest {
 		//7 πÿ±’SessionFactory∂‘œÛ
 		sessionFactory.close();
 	}
-
 }
